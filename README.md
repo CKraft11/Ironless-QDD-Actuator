@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ironless-QDD-Actuator
 
 ## Overview
@@ -34,6 +33,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 Credit: Caden Kraft (GitHub: CKraft11)
 
 ## Contributing
+
 
 Feedback and contributions are welcome! Submit issues or pull requests on GitHub. If you use this actuator, please share your project!
 =======
@@ -76,4 +76,4 @@ Credit: Caden Kraft (GitHub: CKraft11)
 ## Contributing
 
 Feedback and contributions are welcome! Submit issues or pull requests on GitHub. If you use this actuator, please share your project!
->>>>>>> a101c7035bd1b483f524a4cdbc3fa37776cfc304
+
