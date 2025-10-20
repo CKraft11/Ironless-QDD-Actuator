@@ -24,6 +24,14 @@ https://cadenkraft.com/ironless-cycloidal-planetary-actuator/
 - Bill of Materials (BOM)
 - ODrive configuration for MKS X Drive
 
+## Assembly Tips
+
+- USE ENGINEERING PLASTICS! (PA6-GF, PA6-CF, PET-CF, etc) Using PLA is tempting but the rotor will definilty creep due to the magnetic forces.
+- Rotor specifically needs to be printed @ 100% infill using a high stiffness plastic with low creep
+- Using "CF-Core" filaments for the gears is untested but should work amazingly for having the smooth non abrasive plastic on the outside but still having the stiff carbon additives for strength
+- M3 Tap is needed for assembling the planet carrier
+- Lithium grease should be used inside the gearbox assembly
+
 ## License
 
 MIT License
