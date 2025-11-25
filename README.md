@@ -48,6 +48,8 @@ Feedback and contributions are welcome! Submit issues or pull requests on GitHub
 
 This repository tracks large binary assets (e.g., `.STEP` CAD files and FEMM outputs) with Git Large File Storage (LFS). To clone and receive these files correctly, install Git LFS before cloning.
 
+If you hit LFS bandwidth limits, the full print and CAD files are also mirrored on MakerWorld: https://makerworld.com/en/models/2042262-caden-kraft-s-qdd-cycloidal-planetary-actuator#profileId-2203426
+
 - Install Git LFS:
   - Windows: `winget install Git.GitLFS` or install via Git for Windows installer (enable LFS component)
   - macOS: `brew install git-lfs`
